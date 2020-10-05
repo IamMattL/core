@@ -1,3 +1,5 @@
+@import "./fonts/fonts.css";
+
 html {
   box-sizing: border-box;
   overflow: -moz-scrollbars-vertical;

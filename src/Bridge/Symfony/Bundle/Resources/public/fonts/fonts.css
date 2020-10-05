@@ -1,0 +1,114 @@
+/* Open Sans */
+@font-face {
+  font-family: 'Open Sans', sans-serif;
+  src: url('./OpenSans-Regular.ttf')  format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans', sans-serif;
+  src: url('./OpenSans-Italic.ttf')  format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans', sans-serif;
+  src: url('./OpenSans-Bold.ttf')  format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans', sans-serif;
+  src: url('./OpenSans-BoldItalic.ttf')  format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Source Code Pro */
+@font-face {
+  font-family: 'Source Code Pro', monospace;
+  src: url('./SourceCodePro-Light.ttf')  format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Code Pro', monospace;
+  src: url('./SourceCodePro-LightItalic.ttf')  format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Code Pro', monospace;
+  src: url('./SourceCodePro-SemiBold.ttf')  format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Code Pro', monospace;
+  src: url('./SourceCodePro-SemiBoldItalic.ttf')  format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Titillium Web */
+@font-face {
+  font-family: 'Titillium Web', sans-serif;
+  src: url('./TitilliumWeb-Regular.ttf')  format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Titillium Web', sans-serif;
+  src: url('./TitilliumWeb-Italic.ttf')  format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Titillium Web', sans-serif;
+  src: url('./TitilliumWeb-SemiBold.ttf')  format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Titillium Web', sans-serif;
+  src: url('./TitilliumWeb-SemiBoldItalic.ttf')  format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Titillium Web', sans-serif;
+  src: url('./TitilliumWeb-Bold.ttf')  format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Titillium Web', sans-serif;
+  src: url('./TitilliumWeb-BoldItalic.ttf')  format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
